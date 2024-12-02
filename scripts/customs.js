@@ -6,6 +6,6 @@ button.className = "btn";
 
 button.addEventListener("click", function() {
   // Mở URL trong tab mới khi click
-  window.open("https://shianime.id/", "_blank");
+  window.open("https://shianime.net/", "_blank");
 });
 document.getElementById("btncnt").appendChild(button);
